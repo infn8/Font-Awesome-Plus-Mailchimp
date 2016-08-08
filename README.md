@@ -11,18 +11,16 @@ Otherwise you can always use IcoMoon to grab the newest FA version and re-add th
 * Go to your [IcoMoon Projects Page](https://icomoon.io/app/#/projects)
 * Create yourself a new project (or load an existing one you like)
 * Choose Add Icons from library
-    * [![Add Icons](screenshots/1.png)]
+    * ![Add Icons](screenshots/1.png)
 * Add Font Awesome
-    * [![Add Font Awesome](screenshots/2.png)]
+    * ![Add Font Awesome](screenshots/2.png)
 * Use the hamburger menu and select Import To Set
-    * [![Use the hamburger menu and select Import To Set](screenshots/3.png)]
+    * ![Use the hamburger menu and select Import To Set](screenshots/3.png)
 * Import the file ```mailchimp.svg```
 * Choose Select All from the same menu
-    * [![Choose Select All from the same menu](screenshots/4.png)]
+    * ![Choose Select All from the same menu](screenshots/4.png)
 * Generate The Font
-    * [![Generate The Font](screenshots/5.png)]
+    * ![Generate The Font](screenshots/5.png)
 
 Done!
-
-[![Boom Jamie Boom](http://media.giphy.com/media/3oEduG02C3ZO4D1lIs/giphy.gif)](https://www.youtube.com/watch?v=HJSn43DtnB4)
 
