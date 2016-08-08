@@ -6,7 +6,9 @@ This repo will be updated from time to time as the Font Awesome project adds mor
 
 <https://github.com/FortAwesome/Font-Awesome/issues/3379#issuecomment-238188409>
 
-Otherwise you can always use IcoMoon to grab the newest FA version and re-add this one icon.  Here's How.
+If you don't mind possibly slightly dated use the files in this repo in the folder ```icomoon``` you can look at the file ```demo.html``` to see if the icons you want from FA are there.
+
+Otherwise you can always use IcoMoon to grab the newest FA version and re-add this one icon.  Here's How:
 
 * Go to your [IcoMoon Projects Page](https://icomoon.io/app/#/projects)
 * Create yourself a new project (or load an existing one you like)
